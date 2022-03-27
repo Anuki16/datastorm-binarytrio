@@ -4,4 +4,4 @@
 
 * Niseni Angammana
 * Anuki Pasqual
-* Chadmi Rathnayake
+* Chadmi Ratnayake
