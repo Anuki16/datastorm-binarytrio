@@ -6,4 +6,6 @@
 * Anuki Pasqual
 * Chadmi Ratnayake
 
-Project Report : https://docs.google.com/document/d/1j4coBComP_DNTBuQdl4zliC0tb9nbAc4JzlykzUUNlg/edit?usp=sharing
+Project Reports 
+* Storming round: https://docs.google.com/document/d/1j4coBComP_DNTBuQdl4zliC0tb9nbAc4JzlykzUUNlg
+* Semifinal: https://docs.google.com/document/d/1tj_fH587b3J103TYa7WFaFeQwKgTHuyXoYEXRBo-sPo
